@@ -1,0 +1,16 @@
+# Node modules - ye bahut bada folder hai, isko track nahi karna
+node_modules/
+
+# Environment variables - isme passwords hote hain
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Editor settings
+.vscode/
+.idea/
